@@ -1,6 +1,6 @@
 # Python_Pandas
 
-Using Python Pandas Library  and Jupyter Notebook analyze CSV Data
+Using Python Pandas Library  and Jupyter Notebook to analyze CSV Data
 
 Final report includes the following:
 
