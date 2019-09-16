@@ -1,6 +1,7 @@
 # Python_Pandas
 
-Using Python Pandas Library  and Jupyter Notebook 
+Using Python Pandas Library  and Jupyter Notebook
+
 Final report includes the following:
 
 Player Count
