@@ -5,8 +5,7 @@ Using Python Pandas Library  and Jupyter Notebook to analyze CSV Data
 Final report includes the following:
 
 Player Count
-
-* Total Number of Players
+ * Total Number of Players
 
 Purchasing Analysis (Total)
  * Number of Unique Items
