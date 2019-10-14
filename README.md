@@ -7,7 +7,7 @@ Final report includes the following:
 __Player Count__
  * Total Number of Players
 
-Purchasing Analysis (Total)
+__Purchasing Analysis (Total)__
  * Number of Unique Items
  * Average Purchase Price
  * Total Number of Purchases
