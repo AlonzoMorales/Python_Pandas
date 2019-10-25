@@ -1,6 +1,6 @@
 # Python_Pandas
 
-Using Python Pandas Library  and Jupyter Notebook to analyze CSV Data
+Using Python Pandas Library and Jupyter Notebook to analyze CSV file with sales and customer data from gaming company
 
 Final report includes the following:
 
